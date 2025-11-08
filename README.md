@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 I’m passionate about creating digital solutions that blend great functionality with clean design.  
-I focus mainly on backend development, but I’m expanding my skills into SwiftUI, CoreML, and Node.js to become a well-rounded full-stack developer.
+I focus mainly on backend development and laravel project development, but I’m expanding my skills into SwiftUI, Machine Learning, and Node.js to become a well-rounded full-stack developer.
 
 Outside of code, I enjoy staying active — 🏸 badminton, 🥊 boxing, and 🏃 running keep me energized and disciplined.
 
