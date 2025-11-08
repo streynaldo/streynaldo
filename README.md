@@ -17,4 +17,11 @@ Outside of code, I enjoy staying active — 🏸 badminton, 🥊 boxing, and �
 ### 🧰 Tech Stack
 ```yaml
 Backend: Laravel, PHP, MySQL, Node.js (learning on progress :D)
-Frontend: TailwindCSS, SwiftUI, React (learning on progress :D)
+Frontend: TailwindCSS, SwiftUI, React.js (learning on progress :D)
+```
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefanusreynaldo)
+- 📷 [Instagram](https://www.instagram.com/streynaldo/)
