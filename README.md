@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Rey 👋
 
-<!--
-**streynaldo/streynaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Fresh Graduate in Informatics** from **Universitas Ciputra**, currently 22 years old.  
+💻 Backend-focused **Laravel Developer**, now exploring **iOS Development** and **Machine Learning**.  
+🚀 Currently interning at **Apple Developer Academy @ Universitas Ciputra**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I’m passionate about creating digital solutions that blend great functionality with clean design.  
+I focus mainly on backend development, but I’m expanding my skills into SwiftUI, CoreML, and Node.js to become a well-rounded full-stack developer.
+
+Outside of code, I enjoy staying active — 🏸 badminton, 🥊 boxing, and 🏃 running keep me energized and disciplined.
+
+---
+
+### 🧰 Tech Stack
+```yaml
+Backend: Laravel, PHP, MySQL, Node.js (learning on progress :D)
+Frontend: TailwindCSS, SwiftUI, React (learning on progress :D)
